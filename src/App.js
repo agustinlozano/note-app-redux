@@ -1,12 +1,2 @@
-
-import './App.css'
-
-function App () {
-  return (
-    <div className='App'>
-      <header />
-    </div>
-  )
-}
-
-export default App
+/* The app file is now empty because the
+  current app is included in the index */
